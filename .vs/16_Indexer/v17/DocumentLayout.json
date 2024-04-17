@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\16_Indexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEF8153-5AAD-44ED-889B-D13D1204C73D}|16_Indexer\\16_Indexer.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\16_indexer\\16_indexer\\models\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEF8153-5AAD-44ED-889B-D13D1204C73D}|16_Indexer\\16_Indexer.csproj|solutionrelative:16_indexer\\models\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEF8153-5AAD-44ED-889B-D13D1204C73D}|16_Indexer\\16_Indexer.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\16_indexer\\16_indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEF8153-5AAD-44ED-889B-D13D1204C73D}|16_Indexer\\16_Indexer.csproj|solutionrelative:16_indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Number.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\16_Indexer\\16_Indexer\\Models\\Number.cs",
+              "RelativeDocumentMoniker": "16_Indexer\\Models\\Number.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\16_Indexer\\16_Indexer\\Models\\Number.cs",
+              "RelativeToolTip": "16_Indexer\\Models\\Number.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:02:40.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\16_Indexer\\16_Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "16_Indexer\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\16_Indexer\\16_Indexer\\Program.cs",
+              "RelativeToolTip": "16_Indexer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:59:51.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

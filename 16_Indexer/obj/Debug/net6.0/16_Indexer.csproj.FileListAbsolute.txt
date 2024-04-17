@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\bin\Debug\net6.0\16_Indexer.exe
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\bin\Debug\net6.0\16_Indexer.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\bin\Debug\net6.0\16_Indexer.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\bin\Debug\net6.0\16_Indexer.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\bin\Debug\net6.0\16_Indexer.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\obj\Debug\net6.0\16_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\obj\Debug\net6.0\16_Indexer.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\obj\Debug\net6.0\16_Indexer.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\obj\Debug\net6.0\16_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\obj\Debug\net6.0\16_Indexer.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\obj\Debug\net6.0\refint\16_Indexer.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\obj\Debug\net6.0\16_Indexer.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\obj\Debug\net6.0\16_Indexer.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\16_Indexer\16_Indexer\obj\Debug\net6.0\ref\16_Indexer.dll
